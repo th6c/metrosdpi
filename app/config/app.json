@@ -1,0 +1,11 @@
+{
+    "language": "ru",
+    "show_in_tray": true,
+    "close_winws_on_exit": false,
+    "start_minimized": true,
+    "auto_start_last_strategy": true,
+    "add_b_flag_on_update": true,
+    "last_strategy": "general (ALT10)",
+    "autostart_enabled": true,
+    "remove_check_updates": true
+}
