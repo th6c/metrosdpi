@@ -1,4 +1,5 @@
 # MetrosDPI
+<img alt="image" align="middle" src="https://github.com/user-attachments/assets/6f569235-c526-4759-b60d-ae1ea70d8315">
 
 ## Обзор
 
@@ -235,3 +236,4 @@ ping_target=target.hostname
 Проект распространяется под лицензией MIT. Подробности см. в файле LICENSE.
 
  
+
