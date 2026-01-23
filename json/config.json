@@ -1,0 +1,23 @@
+{
+    "app": {
+        "language": "ru",
+        "show_in_tray": true,
+        "close_winws_on_exit": true,
+        "start_minimized": false,
+        "auto_start_last_strategy": true,
+        "add_b_flag_on_update": true,
+        "last_strategy": "",
+        "auto_restart_strategy": true,
+        "game_filter_enabled": false,
+        "ipset_filter_mode": "any",
+        "autostart_enabled": false,
+        "remove_check_updates": true
+    },
+    "app_version": {
+        "version": "version 1.4.0",
+        "md5": "c4d42d8667e42b2d7447cfb064a29c47"
+    },
+    "zapret_version": {
+        "version": "1.9.3"
+    }
+}
